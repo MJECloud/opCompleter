@@ -90,10 +90,10 @@
             Tags = @('PSEdition_Core','PSEditon_Desktop', '1Password',"op")
 
             # Eine URL zur Lizenz für dieses Modul.
-            # LicenseUri = ''
+            LicenseUri = 'https://github.com/MJECloud/opCompleter/blob/master/LICENSE'
 
             # Eine URL zur Hauptwebsite für dieses Projekt.
-            # ProjectUri = ''
+            ProjectUri = 'https://github.com/MJECloud/opCompleter'
 
             # Eine URL zu einem Symbol, das das Modul darstellt.
             # IconUri = ''
