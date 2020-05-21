@@ -4,7 +4,7 @@
     RootModule = 'opCompleter.psm1'
 
     # Die Versionsnummer dieses Moduls
-    ModuleVersion = '1.0.0'
+    ModuleVersion = '1.0.1'
 
     # UnterstÃ¼tzte PSEditions
     CompatiblePSEditions = @('Core','Desktop')
@@ -99,7 +99,8 @@
             # IconUri = ''
 
             # 'ReleaseNotes' des Moduls
-            ReleaseNotes = 'Initial Release.'
+            ReleaseNotes = '1.0.1
+            Update tab completion for op version 1.0.0'
 
         } # Ende der PSData-Hashtabelle
 
