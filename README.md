@@ -5,6 +5,7 @@ Install it from the PowerShell Gallery:
 
 ```pwsh
 Install-Module opCompleter
+Import-Module opCompleter
 ```
 
 ![op TabComplete](/images/opTabCompletion.png)
