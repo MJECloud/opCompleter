@@ -4,7 +4,7 @@
     RootModule = 'opCompleter.psm1'
 
     # Die Versionsnummer dieses Moduls
-    ModuleVersion = '1.0.1'
+    ModuleVersion = '2.0.0'
 
     # UnterstÃ¼tzte PSEditions
     CompatiblePSEditions = @('Core','Desktop')
@@ -19,10 +19,10 @@
     CompanyName = 'mjeCloud'
 
     # UrheberrechtserklÃ¤rung fÃ¼r dieses Modul
-    Copyright = '(c) 2020 mjeCloud. All rights reserved.'
+    Copyright = '(c) 2023 mjeCloud. All rights reserved.'
 
     # Beschreibung der von diesem Modul bereitgestellten Funktionen
-    Description = 'An argument completer for the 1Password CLI.'
+    Description = 'DEPRECATED! An argument completer for the 1Password CLI.'
 
     # Die fÃ¼r dieses Modul mindestens erforderliche Version des Windows PowerShell-Moduls
     PowerShellVersion = '5.1'
@@ -99,8 +99,9 @@
             # IconUri = ''
 
             # 'ReleaseNotes' des Moduls
-            ReleaseNotes = '1.0.1
-            Update tab completion for op version 1.0.0'
+            ReleaseNotes = '2.0.0
+            Switch to native op completion.
+            Deprecate Module'
 
         } # Ende der PSData-Hashtabelle
 
