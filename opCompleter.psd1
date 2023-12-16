@@ -43,7 +43,7 @@
     # ProcessorArchitecture = ''
 
     # Die Module, die vor dem Importieren dieses Moduls in die globale Umgebung geladen werden mÃ¼ssen
-    RequiredModules = @('TabExpansionPlusPlus')
+    #RequiredModules = @()
 
     # Die Assemblys, die vor dem Importieren dieses Moduls geladen werden mÃ¼ssen
     # RequiredAssemblies = @()
